@@ -13,7 +13,8 @@ node_modules
 *.next
 .next
 *.next
-
+*.zip
+*.rar
 # Log files
 npm-debug.log*
 yarn-debug.log*
